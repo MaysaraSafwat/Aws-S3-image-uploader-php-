@@ -1,0 +1,8 @@
+{
+    "require" : {
+
+    },
+    "autoload": {
+        "files" : ["config.php"]
+    }
+}
